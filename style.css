@@ -27,5 +27,6 @@ body {
 }
 
 .mole {
+  cursor: pointer;
   background-image: url("images/mole.png");
 }
